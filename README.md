@@ -22,7 +22,7 @@ A K-Means–based climate clustering tool that groups U.S. ZIP codes by 10-year 
 ### 📍 [Dynamic Summary Reporting Tool]<link coming soon>
 Built a dynamic SQL-based reporting system for a veterinary database. Used PostgreSQL to construct normalized tables, implement transformation logic, and automate summary table refresh using stored procedures and triggers.
 
-### 📍 [Route Optimization System for Delivery Logistics]<link coming soon>
+### 📍 [Route Optimization System for Delivery Logistics](https://github.com/Not-Your-Mother/Route-Optimization-System.git)
 Created an efficient delivery route planner by implementing a custom hash table and nearest-neighbor algorithm to solve a real-world traveling salesman–style problem. Focused on algorithm design and object-oriented programming in Python.
 
 
