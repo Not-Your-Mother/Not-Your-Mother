@@ -16,7 +16,7 @@ I’ve independently designed and implemented projects involving **data analysis
 ---
 
 ## 📌 Featured Projects
-### 📍 [Climate Match System]<link coming soon>
+### 📍 [Climate Match System](https://github.com/Not-Your-Mother/Climate-Match-System.git)
 A K-Means–based climate clustering tool that groups U.S. ZIP codes by 10-year average monthly temperatures to support relocation decisions. Designed and implemented full data pipeline—from raw ingestion to cluster visualization—using Python, Pandas, Scikit-learn, and Seaborn.
 
 ### 📍 [Movie Recommendation System](https://github.com/Not-Your-Mother/Movie-Recommendation-System.git)
