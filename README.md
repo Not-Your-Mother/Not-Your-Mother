@@ -19,8 +19,8 @@ I’ve independently designed and implemented projects involving **data analysis
 ### 📍 [Climate Match System]<link coming soon>
 A K-Means–based climate clustering tool that groups U.S. ZIP codes by 10-year average monthly temperatures to support relocation decisions. Designed and implemented full data pipeline—from raw ingestion to cluster visualization—using Python, Pandas, Scikit-learn, and Seaborn.
 
-### 📍 [Dynamic Summary Reporting Tool]<link coming soon>
-Built a dynamic SQL-based reporting system for a veterinary database. Used PostgreSQL to construct normalized tables, implement transformation logic, and automate summary table refresh using stored procedures and triggers.
+### 📍 [Movie Recommendation System](https://github.com/Not-Your-Mother/Movie-Recommendation-System.git)
+Built a recommendation engine using PostgreSQL and the DVD Rental sample database. Analyzed rental history to suggest new movies by genre, implemented using stored procedures, triggers, and transformation logic. Demonstrates how to extend a transactional schema with real-time personalization.
 
 ### 📍 [Route Optimization System for Delivery Logistics](https://github.com/Not-Your-Mother/Route-Optimization-System.git)
 Created an efficient delivery route planner by implementing a custom hash table and nearest-neighbor algorithm to solve a real-world traveling salesman–style problem. Focused on algorithm design and object-oriented programming in Python.
