@@ -1,7 +1,7 @@
 # Hi, I’m Kimberly 👋  
 **Recent BSCS Graduate | Python, SQL, Data Visualization | Passionate about solving real-world problems through data**
 
-I’m a recent graduate of the Bachelor of Science in Computer Science program at Western Governors University. My background blends technical rigor with self-directed problem solving, and I thrive on translating raw data into actionable insights.
+I’m a recent graduate of the Bachelor of Science in Computer Science program at Western Governors University, currently pursuing my Masters of Computer Science AI/ML. My background blends technical rigor with self-directed problem solving, and I thrive on translating raw data into actionable insights.
 
 I’ve independently designed and implemented projects involving **data analysis, database engineering, and machine learning workflows**, using real-world datasets to explore climate trends, delivery logistics, and reporting automation.
 
